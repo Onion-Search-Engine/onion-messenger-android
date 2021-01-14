@@ -32,6 +32,10 @@ https://github.com/Onion-Search-Engine/onion-messenger-android/issues
 * Address book integration
 * Multiple accounts / unified inbox
 * Very low impact on battery life
+* blocked ability to screenshot messages
+* blocked ability to screenshot photos
+* XMPP server encrypted and distributed on the network
+* Files not saved on the server and all connectivity logs deleted in real time
 
 
 Help
