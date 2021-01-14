@@ -1,4 +1,4 @@
-# onionmessenger
+# Onion Messenger for Android
 Onion Messenger is Chat anonymous with encryption.
 
 Onion Messenger client for Android is a fork of Conversations an open source XMPP/Jabber client for Android.
