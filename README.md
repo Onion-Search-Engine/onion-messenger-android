@@ -58,7 +58,7 @@ The form and manner of this distribution makes it eligible for export under the 
 
 ## License
 
-Copyright 2013-2020 Signal
+Copyright 2017-2021 Onion Messenger
 
 Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
 
